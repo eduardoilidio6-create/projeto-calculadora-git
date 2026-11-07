@@ -4,16 +4,14 @@ Repositório criado para a prática de versionamento de código, controle de flu
 
 ---
 
-## 👥 Seção de Apresentação dos Membros
+## 👥 Seção de Apresentação
 
-Esta seção documenta a participação da equipe no desenvolvimento do projeto:
 
-| Membro | Papel / Função | GitHub Username |
+
+| Membro 
 | :--- | :--- | :--- |
-| **Líder do Repositório** | Infraestrutura e Gestão de PRs | `seu-usuario-lider` |
-| **Desenvolvedor(a) 1** | Implementação das Operações Básicas | `usuario-membro-1` |
-| **Desenvolvedor(a) 2** | Estrutura de Menu e Interação | `usuario-membro-2` |
-| **Desenvolvedor(a) 3** | Tratamento de Erros e Validações | `usuario-membro-3` |
+| **Líder do Repositório** eduardoilidio6-create` |
+
 
 ---
 
@@ -21,10 +19,8 @@ Esta seção documenta a participação da equipe no desenvolvimento do projeto:
 
 | Membro | LinkedIn | GitHub Profile |
 | :--- | :--- | :--- |
-| **Líder** | [LinkedIn do Líder]([https://linkedin.com](https://www.linkedin.com/in/eduardo-ilidio-borges-dos-santos-7a17a740a/)) | 
-| **Membro 1** | [LinkedIn M1](https://linkedin.com)
-| **Membro 2** | [LinkedIn M2](https://linkedin.com) 
-| **Membro 3** | [LinkedIn M3](https://linkedin.com) 
+| **Líder** | [https://linkedin.com](https://www.linkedin.com/in/eduardo-ilidio-borges-dos-santos-7a17a740a/)) | 
+
 
 ---
 
